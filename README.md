@@ -1,7 +1,7 @@
 # -Uber-Dashboard
 
 
-# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c2c27713-a526-4496-a4bb-03006240f640" />
+# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4a0cfdd9-e866-45d5-bb86-d3643abbcc4e" />
  Uber Dashboard  
 📍 At a Glance
 Gain live insights into your city's mobility landscape. This dashboard tracks essential metrics like ride requests, driver availability, trip duration, and fare trends, enabling you to make data-driven decisions to improve service efficiency and rider satisfaction.
